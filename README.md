@@ -1,8 +1,6 @@
 # AI Resume Helper
 
-## Demo
 
-![Program Demo](ai_resume_helper_demo.png)
 
 A beginner Python project that helps create resume bullet points based on a job title and work experience.
 
